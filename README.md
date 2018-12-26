@@ -3,4 +3,4 @@ TMS ioFit is a Matlab toolbox, for fast and optimal estimation of neural recruit
 
 Please see the users' manual attached. 
 
-L Nourbala, SMM Alavi, SM Goetz, AV Peterchev, "TMS ioFit Users' Manual", September 2018.
+L Nourbala, SMM Alavi, SM Goetz, AV Peterchev, "TMS ioFit Users' Manual", December 2018.
