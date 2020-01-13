@@ -1,5 +1,5 @@
 # TMS-ioFit
-## L Nourbala+, SMM Alavi+, SM Goetz++, AV Peterchev++
+## L Nourbala+, SMM Alavi+, SM Goetz++
 ## + Shahid Beheshti University, Theran, Iran
 ## ++ Duke University, Durham, NC, USA
 
